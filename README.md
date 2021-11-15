@@ -37,7 +37,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/sharplessHQ">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Huiqing&show_icons=true&line_height=27&count_private=true&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" alt="Huiqing's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sharplessHQ&show_icons=true&line_height=27&count_private=true&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" alt="Huiqing's GitHub Stats" />
 </a>
 
 ## 📌 Pinned Repositories
@@ -45,27 +45,29 @@
 <br>
 
 <a href="https://github.com/sharplessHQ/hqConnectFour">
-  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=hqConnectFour&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=hqConnectFour&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
 </a>
 
 <a href="https://github.com/sharplessHQ/hqHamsterChef">
-  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=hqHamsterChef&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=hqHamsterChef&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
 </a>
 
+<br>
 <br>
 
 <a href="https://github.com/sharplessHQ/Atelier-FrontEnd">
-  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=Atelier-FrontEnd&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=Atelier-FrontEnd&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
 </a>
 
 <a href="https://github.com/sharplessHQ/Atelier-BackEnd">
-  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=Atelier-BackEnd&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=Atelier-BackEnd&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
 </a>
 
 <br>
+<br>
 
 <a href="https://github.com/sharplessHQ/Galileo">
-  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=Galileo&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=Galileo&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
 </a>
 
 <br>
