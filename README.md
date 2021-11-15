@@ -1,4 +1,6 @@
-## Hi there! I'm Huiqing 👋
+![Huiqing's GitHub Banner](./assets/GitHubHeader.png)
+
+## Hi there 👋
 
 - :office: Full Stack Developer [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 - :round_pushpin: Based in Tri-Cities, WA
