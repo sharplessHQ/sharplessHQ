@@ -51,6 +51,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sharplessHQ&show_icons=true&line_height=27&count_private=true&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" alt="Huiqing's GitHub Stats" />
 </a>
 
+<!--
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/sharplessHQ/hqConnectFour">
@@ -80,6 +81,7 @@
 </a>
 
 <br>
+-->
 
 <!--
 **sharplessHQ/sharplessHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
