@@ -1,9 +1,18 @@
 ![Huiqing's GitHub Banner](./assets/GitHubHeader.png)
 
-## Hi there 👋
+## Hey there 👋
 
 - :office: Full Stack Developer [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 - :round_pushpin: Based in Tri-Cities, WA
+
+<br>
+
+## 📝 Web Applications
+
+- [Connect Four Game](https://hqconnectfour.herokuapp.com/)
+- [Hamester Chef](https://hqhamsterchef.herokuapp.com/)
+
+<br>
 
 ## Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -34,6 +43,8 @@
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 ![BABEL](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)
 
+<br>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/sharplessHQ">
@@ -41,8 +52,6 @@
 </a>
 
 ## 📌 Pinned Repositories
-
-<br>
 
 <a href="https://github.com/sharplessHQ/hqConnectFour">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sharplessHQ&repo=hqConnectFour&title_color=034749&text_color=0E6A6B&icon_color=9E880D&bg_color=B0E0E6" />
@@ -71,7 +80,6 @@
 </a>
 
 <br>
-
 
 <!--
 **sharplessHQ/sharplessHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
