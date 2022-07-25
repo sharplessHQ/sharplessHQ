@@ -11,6 +11,7 @@
 
 - [Connect Four Game](https://hqconnectfour.herokuapp.com/)
 - [Hamester Chef](https://hqhamsterchef.herokuapp.com/)
+- [Scary Maze](https://hqscarymaze.herokuapp.com/)
 
 <br>
 
