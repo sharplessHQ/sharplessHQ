@@ -9,9 +9,9 @@
 
 ## ✨ Web Applications
 
-- [Connect Four Game](https://hqconnectfour.herokuapp.com/)
-- [Hamester Chef](https://hqhamsterchef.herokuapp.com/)
-- [Scary Maze](https://hqscarymaze.herokuapp.com/)
+- [Connect Four Game](https://hqconnectfour.onrender.com/)
+- [Hamester Chef](https://hqhamsterchef.onrender.com/)
+- [Scary Maze](https://hqscarymaze.onrender.com/)
 
 <br>
 
